@@ -1,0 +1,45 @@
+Site Text:
+
+Hello there, fellow beings of the galaxy!
+
+I am Obi-Wan Kenobi, a Jedi Knight with a deep commitment to maintaining peace and justice across the cosmos.
+I have dedicated my life to the Jedi Order, striving to uphold its principles and protect the innocent from the grasp of the dark side. As a seasoned Jedi Master, I have experienced both triumphs and tribulations in my ongoing quest to bring balance to the Force.
+
+Interests:
+
+I find immense joy in exploring ancient Jedi temples, where the wisdom of the Force resonates with me on a profound level. As a Jedi Master, one of my greatest passions is training the next generation of Jedi Knights, knowing that they hold the key to a brighter and more hopeful future. Diplomatic negotiations are a skill I have honed over the years, and I take pride in using that skill to forge alliances and bring about resolutions to conflicts, striving to bring balance and harmony to the galaxy.
+    
+Nature is a sanctuary for me, and I often find myself meditating amidst its beauty, seeking a deep connection with the living Force that surrounds us all.
+
+Mission:
+
+My primary goal is to preserve peace in the galaxy and protect it from the menacing Sith and their dark machinations. Through courage, compassion, and resilience, I aim to inspire hope and be a guiding light for those in need.
+
+Notable accomplishments:
+
+As a Jedi, I've achieved significant milestones that shaped the galaxy's fate. I played a crucial role in defeating the dangerous Sith Lord Darth Maul. During the Clone Wars, I fought bravely to maintain stability amidst chaos. Despite my efforts, I couldn't prevent Anakin Skywalker's transformation into Darth Vader. Yet, hope arose in the form of Luke Skywalker, whom I guided to become a true Jedi. Together, we confronted Darth Vader, leading to his redemption and the restoration of balance to the Force. These experiences taught me profound lessons about the nature of the Force, the complexities of good and evil, and the enduring strength of hope and redemption.
+
+Become a Padawan
+
+Feel free to reach out if you seek guidance or if you have questions about the Force, Jedi philosophy, or anything else you'd like to discuss. May the Force be with you!
+
+Fonts 
+Bungee+Shade
+Nanum
+(Montserrat Subrayada)
+
+Star Wars Yellow
+#F6E11D
+#353535
+#d9d9d9
+
+
+Fontawesome icons
+
+<li><i class="fa-brands fa-instagram"></i></li>
+<li><i class="fa-brands fa-square-facebook"></i></li>
+<li><i class="fa-solid fa-jedi"></i></li>
+
+giphy image embed
+
+<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">via GIPHY</a></p>
